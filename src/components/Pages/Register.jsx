@@ -26,7 +26,7 @@ const Register = ()=>{
   }
     return(
         <div className="bg-slate-200">
-            <div className="grid grid-cols-3">
+            <div className="grid grid-cols-1 lg:grid-cols-3">
                 <div className="bg-black py-16 rounded-lg">
                     <div className="flex justify-center space-y-6 flex-col items-center ">
                         <h3 className="text-3xl underline
